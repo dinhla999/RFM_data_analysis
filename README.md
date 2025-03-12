@@ -36,6 +36,7 @@ Hence, I will eliminate 'Shipped' status when I sum up the sales amount.
 
 
 - Finally, I use CTE function to query customers who has last order date, count of purchased, and total amount has purchased.
+
 ![{30276FAF-F708-47E4-A7F8-59E182797E21}](https://github.com/user-attachments/assets/a734bbf8-a827-45a5-9aaa-6846dc4591a7)
 
 
