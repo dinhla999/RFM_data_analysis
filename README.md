@@ -2,7 +2,9 @@
 Tools: SQL, Tableau
 
 Data Cleaning & Preparation: Handled missing values, removed duplicates, and structured data for analysis.
+
 RFM Scoring: Calculated Recency, Frequency, and Monetary scores for each customer.
+
 Customer Segmentation: Applied RFM scoring techniques to classify customers into meaningful groups.
 
 # Overview my visualization on Tableau Public
