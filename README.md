@@ -6,6 +6,8 @@ From the dataset, I will query data sum of revenue by months, years, product cat
 # Overview my visualization on Tableau Public
 https://public.tableau.com/app/profile/eleanor.la2696/viz/RFM_analysis_17414227492700/Dashboard1?publish=yes
 
+
+# Using SQL Extracted and analyzed sales data efficiently.
 - I will check the sales status listing. I see the status as shipped has completed sales, the others status has not completed contain revenue numbers as well.
 
 ![{CC4F1A90-CA7A-4A98-A301-657AB0D05F2A}](https://github.com/user-attachments/assets/22ad71b5-5494-4271-942d-dd6cf1f3bfbd)
