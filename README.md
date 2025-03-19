@@ -1,7 +1,9 @@
 # RFM_data_analysis
 Tools: SQL, Tableau
 
-From the dataset, I will query data sum of revenue by months, years, product categories, and Revenue Frequency Monetary analysis to identify high-value customers based on their purchasing behavior. 
+Data Cleaning & Preparation: Handled missing values, removed duplicates, and structured data for analysis.
+RFM Scoring: Calculated Recency, Frequency, and Monetary scores for each customer.
+Customer Segmentation: Applied RFM scoring techniques to classify customers into meaningful groups.
 
 # Overview my visualization on Tableau Public
 https://public.tableau.com/app/profile/eleanor.la2696/viz/RFM_analysis_17414227492700/Dashboard1?publish=yes
