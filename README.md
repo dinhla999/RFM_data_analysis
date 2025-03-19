@@ -40,5 +40,5 @@ Hence, I will eliminate 'Shipped' status when I sum up the sales amount.
 ![{30276FAF-F708-47E4-A7F8-59E182797E21}](https://github.com/user-attachments/assets/a734bbf8-a827-45a5-9aaa-6846dc4591a7)
 
 
-- Over view my visualization on Tableau Public
+# Over view my visualization on Tableau Public
 https://public.tableau.com/app/profile/eleanor.la2696/viz/RFM_analysis_17414227492700/Dashboard1?publish=yes
