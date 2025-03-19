@@ -8,12 +8,12 @@ https://public.tableau.com/app/profile/eleanor.la2696/viz/RFM_analysis_174142274
 
 
 # Using SQL Extracted and analyzed sales data efficiently.
-- I will check the sales status listing. I see the status as shipped has completed sales, the others status has not completed contain revenue numbers as well.
+- I will check the sales status listing, I saw the status as shipped has completed sales, other status has not completed contains revenue numbers as well.
 
 ![{CC4F1A90-CA7A-4A98-A301-657AB0D05F2A}](https://github.com/user-attachments/assets/22ad71b5-5494-4271-942d-dd6cf1f3bfbd)
 
 
-Hence, I will eliminate 'Shipped' status when I sum up the sales amount.
+Hence, I will eliminate the 'Shipped' status when I sum up the sales amount.
 
 - revenue by productline
   
